@@ -6,6 +6,10 @@ L'api permet d'obtenir de trouver des pokémon grâcent à différentes méthode
 
 ___
 
+## mise en marche
+
+nodemon index.js
+
 ### Accées à l'interface graphique
 
 Adresse ip : http://0.0.0.0
